@@ -28,10 +28,13 @@
 * Styles
 - App.css: Styles for the application.
 ```
+![Sample Image](public/scr.png)
 
 ## Deployment
 
 The application is deployed and can be accessed here : [Blog App](https://netlify-react-router.netlify.app/).
+
+
 
 ## Contributing
 * Contributions are welcome! If you find any issues or have improvements, feel free to create a pull request.
