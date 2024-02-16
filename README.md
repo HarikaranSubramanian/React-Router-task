@@ -7,6 +7,7 @@
 - [React Blog App](#react-blog-app)
   - [Table of Contents](#table-of-contents)
   - [Folder Structure](#folder-structure)
+  - [Deployment](#deployment)
   - [Contributing](#contributing)
 
 
@@ -27,5 +28,10 @@
 * Styles
 - App.css: Styles for the application.
 ```
+
+## Deployment
+
+The application is deployed and can be accessed here : [Blog App](https://netlify-react-router.netlify.app/).
+
 ## Contributing
 * Contributions are welcome! If you find any issues or have improvements, feel free to create a pull request.
