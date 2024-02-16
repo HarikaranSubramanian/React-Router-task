@@ -7,6 +7,7 @@
 - [React Blog App](#react-blog-app)
   - [Table of Contents](#table-of-contents)
   - [Folder Structure](#folder-structure)
+  - [Sample Image](#sample-image)
   - [Deployment](#deployment)
   - [Contributing](#contributing)
 
@@ -28,6 +29,8 @@
 * Styles
 - App.css: Styles for the application.
 ```
+
+## Sample Image
 ![Sample Image](public/scr.png)
 
 ## Deployment
